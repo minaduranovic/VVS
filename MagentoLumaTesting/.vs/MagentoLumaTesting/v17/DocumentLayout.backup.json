@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\tests\\dodavanjeukorpuicheckouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:tests\\dodavanjeukorpuicheckouttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\discountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\discountpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\tests\\filtriranjeisortiranjetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:tests\\filtriranjeisortiranjetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\filtriranjesortiranjepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\filtriranjesortiranjepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\tests\\recenzijetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:tests\\recenzijetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\recenzijepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\recenzijepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\registracijapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\registracijapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\tests\\pretragatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:tests\\pretragatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\searchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\tests\\prijavairegistracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:tests\\prijavairegistracija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\pages\\prijavapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:pages\\prijavapage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|c:\\users\\irma\\desktop\\vvs_final\\projekat_treci_dio\\magentolumatesting\\drivers\\singletonwebdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C66C-AB84-448A-8C6B-464663C57490}|MagentoLumaTesting.csproj|solutionrelative:drivers\\singletonwebdriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FiltriranjeiSortiranjeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\FiltriranjeiSortiranjeTests.cs",
+              "RelativeDocumentMoniker": "Tests\\FiltriranjeiSortiranjeTests.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\FiltriranjeiSortiranjeTests.cs",
+              "RelativeToolTip": "Tests\\FiltriranjeiSortiranjeTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:52:31.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PretragaTest.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\PretragaTest.cs",
+              "RelativeDocumentMoniker": "Tests\\PretragaTest.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\PretragaTest.cs",
+              "RelativeToolTip": "Tests\\PretragaTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:46:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "Pages\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\CheckoutPage.cs",
+              "RelativeToolTip": "Pages\\CheckoutPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:49:02.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscountPage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\DiscountPage.cs",
+              "RelativeDocumentMoniker": "Pages\\DiscountPage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\DiscountPage.cs",
+              "RelativeToolTip": "Pages\\DiscountPage.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:47:56.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\ProductPage.cs",
+              "RelativeDocumentMoniker": "Pages\\ProductPage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\ProductPage.cs",
+              "RelativeToolTip": "Pages\\ProductPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:51:06.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DodavanjeUKorpuICheckoutTests.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\DodavanjeUKorpuICheckoutTests.cs",
+              "RelativeDocumentMoniker": "Tests\\DodavanjeUKorpuICheckoutTests.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\DodavanjeUKorpuICheckoutTests.cs",
+              "RelativeToolTip": "Tests\\DodavanjeUKorpuICheckoutTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:51:54.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SearchPage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\SearchPage.cs",
+              "RelativeDocumentMoniker": "Pages\\SearchPage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\SearchPage.cs",
+              "RelativeToolTip": "Pages\\SearchPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T13:29:11.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecenzijeTests.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\RecenzijeTests.cs",
+              "RelativeDocumentMoniker": "Tests\\RecenzijeTests.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\RecenzijeTests.cs",
+              "RelativeToolTip": "Tests\\RecenzijeTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:56:10.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecenzijePage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\RecenzijePage.cs",
+              "RelativeDocumentMoniker": "Pages\\RecenzijePage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\RecenzijePage.cs",
+              "RelativeToolTip": "Pages\\RecenzijePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T15:56:48.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FiltriranjeSortiranjePage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\FiltriranjeSortiranjePage.cs",
+              "RelativeDocumentMoniker": "Pages\\FiltriranjeSortiranjePage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\FiltriranjeSortiranjePage.cs",
+              "RelativeToolTip": "Pages\\FiltriranjeSortiranjePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:53:01.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrijavaIRegistracija.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\PrijavaIRegistracija.cs",
+              "RelativeDocumentMoniker": "Tests\\PrijavaIRegistracija.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Tests\\PrijavaIRegistracija.cs",
+              "RelativeToolTip": "Tests\\PrijavaIRegistracija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:43:53.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PrijavaPage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\PrijavaPage.cs",
+              "RelativeDocumentMoniker": "Pages\\PrijavaPage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\PrijavaPage.cs",
+              "RelativeToolTip": "Pages\\PrijavaPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:45:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SingletonWebDriver.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Drivers\\SingletonWebDriver.cs",
+              "RelativeDocumentMoniker": "Drivers\\SingletonWebDriver.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Drivers\\SingletonWebDriver.cs",
+              "RelativeToolTip": "Drivers\\SingletonWebDriver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:45:49.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistracijaPage.cs",
+              "DocumentMoniker": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\RegistracijaPage.cs",
+              "RelativeDocumentMoniker": "Pages\\RegistracijaPage.cs",
+              "ToolTip": "C:\\Users\\Irma\\Desktop\\vvs_final\\projekat_treci_dio\\MagentoLumaTesting\\Pages\\RegistracijaPage.cs",
+              "RelativeToolTip": "Pages\\RegistracijaPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T09:44:37.498Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
